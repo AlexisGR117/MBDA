@@ -1,0 +1,30 @@
+<detail language="English" country="Canada">
+    <requests>
+        <request content="violent" minimumAge="18">
+            <description>Acts that are related to the practice of physical or verbal force</description>
+        </request>
+        <request content="sports" minimumAge="7"></request>
+    </requests>
+	<description>Description of the first subscription</description>
+</detail>
+
+<detail language="Spanish" country="Colombia">
+    <requests>
+        <request content="educativo">
+            <description>Facilitar el aprendizaje del conocimiento</description>
+        </request>
+        <request content="matematico" minimumAge="7">
+            <description>Propiedades de los numeros y las relaciones entre ellos</description>
+        </request>
+    </requests>
+	<description>Descripcion de la segunda suscripcion</description>
+</detail>
+
+<detail language="English" country="USA">
+    <requests>
+        <request content="violent" minimumAge="16">
+            <description>Acts that are related to the practice of physical or verbal force</description>
+        </request>
+    </requests>
+	<description>Description of the third subscription</description>
+</detail>

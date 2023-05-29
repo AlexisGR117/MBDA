@@ -1,0 +1,8 @@
+<!DOCTYPE detail[
+<!ELEMENT detail (requests, description)>
+<!ELEMENT requests (request+)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT request (description?)>
+
+<!ATTLIST request content CDATA #REQUIRED>
+]>

@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+
+<!DOCTYPE Informacion[
+    <!ELEMENT Informacion (Web, Logo, Influencias,  Discografia, Nominaciones)>
+    <!ELEMENT Web (#PCDATA)>
+    <!ELEMENT Logo EMPTY>
+    <!ELEMENT Influencias (Influencia+)>
+    <!ELEMENT Influencia (#PCDATA)>
+    <!ELEMENT Discografia EMPTY>
+    <!ELEMENT Nominaciones (Nominacion*)>
+    <!ELEMENT Nominacion EMPTY>
+    
+    <!ATTLIST Logo color (rojo|azul|amarillo|verde) #IMPLIED>   
+    <!ATTLIST Logo texto CDATA #REQUIRED> 
+    <!ATTLIST Logo imagen CDATA #REQUIRED>  
+    
+    <!ATTLIST Discografia nombre CDATA #REQUIRED> 
+    <!ATTLIST Discografia ano CDATA #REQUIRED> 
+    <!ATTLIST Discografia ventas CDATA #IMPLIED> 
+    
+    <!ATTLIST Nominacion ano CDATA #REQUIRED> 
+    <!ATTLIST Nominacion trabajo CDATA #REQUIRED> 
+    <!ATTLIST Nominacion nombre CDATA #REQUIRED> 
+    <!ATTLIST Nominacion resultado (nominado|ganador) #REQUIRED>
+]>

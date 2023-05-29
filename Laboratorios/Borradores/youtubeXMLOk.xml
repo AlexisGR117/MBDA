@@ -1,0 +1,22 @@
+<detail>
+    <requests>
+        <request content = 'violent'>
+            <description>Acts that are related to the practice of physical or verbal force</description>
+        </request>
+        <request content = 'sports'>
+        </request>
+    </requests>
+    <description>Description of the first subscription</description>
+</detail>
+
+<detail>
+    <requests>
+        <request content = 'educational'>
+            <description>Facilitate the learning of knowledge</description>
+        </request>
+        <request content = 'mathematical'>
+            <description>Properties of numbers and the relationships between them.</description>
+        </request>
+    </requests>
+    <description>Description of the second subscription</description>
+</detail>

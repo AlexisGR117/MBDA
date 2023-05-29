@@ -1,0 +1,12 @@
+DROP PACKAGE PC_abogados;
+DROP PACKAGE PC_asesorias;
+DROP PACKAGE PC_lugares;
+DROP PACKAGE PC_areas;
+DROP PACKAGE PC_firmas;
+DROP PACKAGE PC_contratos;
+DROP PACKAGE PC_clientes;
+DROP PACKAGE PC_solicitudes;
+DROP PACKAGE PC_demandas;
+DROP PACKAGE PC_audiencias;
+DROP PACKAGE PC_jueces;
+DROP PACKAGE PC_juzgados;

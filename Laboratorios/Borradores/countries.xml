@@ -1,0 +1,22 @@
+<countries>
+    <country name="Samoa" population="198410" area="2831">
+        <language percentage="91.1">Samoan</language>
+        <language percentage="7.2">English</language>
+    </country>
+    <country name="North Macedonia" population="2083215" area="25713">
+        <language percentage="61.38">Macedonian</language>
+        <language percentage="24.34">Albian</language>
+        <language percentage="3.41">Turkish</language>
+        <language percentage="1.73">Romani</language>
+        <language percentage="0.17">Vlach</language>
+        <language percentage="0.61">Serbian</language>
+        <language percentage="0.85">Bosnian</language>
+    </country>
+    <country name="Montenegro" population="621718" area="13812">
+        <language percentage="36.97">Montenegrin</language>
+        <language percentage="42.88">Serbian</language>
+        <language percentage="5.33">Bosnian</language>
+        <language percentage="5.27">Albanian</language>
+        <language percentage="0.45">Croatian</language>
+    </country>
+</countries>

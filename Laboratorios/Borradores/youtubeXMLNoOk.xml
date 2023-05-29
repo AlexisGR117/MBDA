@@ -1,0 +1,14 @@
+<!-- Un detalle sin solicitudes -->
+<detail>
+    <description>Description of the first subscription</description>
+</detail>
+
+<!-- Una solicitud sin contenido -->
+<detail>
+    <requests>
+        <request>
+            <description>Properties of numbers and the relationships between them.</description>
+        </request>
+    </requests>
+    <description>Description of the second subscription</description>
+</detail>

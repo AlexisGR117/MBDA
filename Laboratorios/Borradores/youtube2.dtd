@@ -1,0 +1,12 @@
+<!DOCTYPE detail[
+<!ELEMENT detail (requests, description)>
+<!ELEMENT requests (request+)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT request (description?)>
+
+<!ATTLIST detail language CDATA #REQUIRED>
+<!ATTLIST detail country CDATA #REQUIRED>
+
+<!ATTLIST request content CDATA #REQUIRED>
+<!ATTLIST request minimumAge CDATA #IMPLIED>
+]>
